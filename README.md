@@ -1,8 +1,10 @@
 # template
 
+---
+
 [![Release](https://img.shields.io/github/v/release/aileron-projects/template?sort=semver)](https://github.com/aileron-projects/template/releases)
 [![Reference](https://pkg.go.dev/badge/github.com/aileron-projects/template.svg)](https://pkg.go.dev/github.com/aileron-projects/template)
-[![Test](https://github.com/aileron-projects/template/actions/workflows/test.yaml/badge.svg?branch=main)](https://github.com/aileron-projects/template/actions/workflows/test.yaml?query=branch%3Amain)
+[![Test](https://github.com/aileron-projects/template/actions/workflows/test.yaml/badge.svg)](https://github.com/aileron-projects/template/actions/workflows/test.yaml)
 [![License](https://img.shields.io/badge/License-Apache%202.0-yellow.svg)](./LICENSE)
 
 [![DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/aileron-projects/template)
@@ -10,6 +12,8 @@
 [![OSSInsight](https://badgen.net/badge/%20/OSS%2FInsight/orange?icon=github)](https://ossinsight.io/analyze/aileron-projects/template)
 
 ---
+
+## About
 
 **Template repository.**
 
