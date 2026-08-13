@@ -1,4 +1,7 @@
-# Build
+---
+layout: build
+title: Build
+---
 
 ## Build tags
 

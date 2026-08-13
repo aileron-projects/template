@@ -1,4 +1,7 @@
-# template
+---
+layout: readme
+title: template
+---
 
 This is a template repostiroy.
 
