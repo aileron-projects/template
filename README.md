@@ -24,10 +24,6 @@
 
 ## Benchmarks
 
-## Similar/Related projects
-
-- [Standard library - Go Packages](https://pkg.go.dev/std)
-
 ## References
 
 - [Standard library - Go Packages](https://pkg.go.dev/std)
