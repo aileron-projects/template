@@ -1,12 +1,13 @@
 # template
 
-[![GoDoc](https://godoc.org/github.com/aileron-projects/template?status.svg)](http://godoc.org/github.com/aileron-projects/template)
+[![Release](https://img.shields.io/github/v/release/aileron-projects/template?sort=semver)](https://github.com/aileron-projects/template/releases)
+[![Reference](https://pkg.go.dev/badge/github.com/aileron-projects/template.svg)](https://pkg.go.dev/github.com/aileron-projects/template)
 [![Test](https://github.com/aileron-projects/template/actions/workflows/test.yaml/badge.svg?branch=main)](https://github.com/aileron-projects/template/actions/workflows/test.yaml?query=branch%3Amain)
 [![License](https://img.shields.io/badge/License-Apache%202.0-yellow.svg)](./LICENSE)
 
-[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/aileron-projects/template)
-[![OpenSourceInsight](https://badgen.net/badge/open%2Fsource%2F/insight/cyan)](https://deps.dev/go/github.com%2Faileron-projects%2Ftemplate)
-[![OSS Insight](https://badgen.net/badge/OSS/Insight/orange)](https://ossinsight.io/analyze/aileron-projects/template)
+[![DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/aileron-projects/template)
+[![OpenSourceInsights](https://badgen.net/badge/%20/open%2Fsource%2Finsights/cyan?icon=github)](https://deps.dev/go/github.com%2Faileron-projects%2Ftemplate)
+[![OSSInsight](https://badgen.net/badge/%20/OSS%2FInsight/orange?icon=github)](https://ossinsight.io/analyze/aileron-projects/template)
 
 ---
 
