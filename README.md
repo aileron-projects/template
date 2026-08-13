@@ -5,8 +5,8 @@
 [![Release](https://img.shields.io/github/v/release/aileron-projects/template?sort=semver)](https://github.com/aileron-projects/template/releases)
 [![Reference](https://pkg.go.dev/badge/github.com/aileron-projects/template.svg)](https://pkg.go.dev/github.com/aileron-projects/template)
 [![DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/aileron-projects/template)
+[![Test](https://github.com/aileron-projects/template/actions/workflows/test.yaml/badge.svg)](https://github.com/aileron-projects/go/actions/workflows/test.yaml)
 
-[![License](https://img.shields.io/badge/License-Apache%202.0-yellow.svg)](./LICENSE)
 [![Insights](https://badgen.net/badge/Insights/open%2Fsource%2Finsights/cyan)](https://deps.dev/go/github.com%2Faileron-projects%2Ftemplate)
 [![Insights](https://badgen.net/badge/Insights/OSS%2FInsight/orange)](https://ossinsight.io/analyze/aileron-projects/template)
 
@@ -21,6 +21,11 @@
 - Print hello world.
 
 ## Usages
+
+## Docs & Examples
+
+- Documents: <https://pkg.go.dev/github.com/aileron-projects/template>
+- Examples:
 
 ## Benchmarks
 
