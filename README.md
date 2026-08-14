@@ -24,11 +24,11 @@
 
 ## Docs & Examples
 
-- Documents: <https://pkg.go.dev/github.com/aileron-projects/template>
+- GoDoc: <https://pkg.go.dev/github.com/aileron-projects/template>
 - Examples:
 
 ## Benchmarks
 
 ## References
 
-- [Standard library - Go Packages](https://pkg.go.dev/std)
+- [Standard library](https://pkg.go.dev/std)
